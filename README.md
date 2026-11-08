@@ -1,10 +1,14 @@
 # Holberton Challenge
+*View the project live at [https://projects.nebuloid.dev/holberton-challenge/](https://projects.nebuloid.dev/holberton-challenge/).*
+
 > I originally created this website in 2017, when I was applying to Holberton School for Software Engineers.
-> It was made as a part of their admission process.
+> It was made as a part of their admission process, and I got accepted in with this!
 > Schools like Holberton and Make School represent a new age in education &mdash; they do not require up-front tuition, and instead take a cut of your salary for a few years.
 >
 > A lot has changed in my life since I made this website, but I appreciate keeping this website live as an archival unit of sorts.
 > *Thanks for visiting!*
+
+![Holberton Campus](https://repository-images.githubusercontent.com/115828658/a177a3bb-343e-4e02-866f-33157e4e641e)
 
 ## Running Locally
 You can get this website running locally with a few commands in your terminal:
